@@ -2,7 +2,7 @@
 
 ## Bienvenido
 
-Bienvenido al repositorio de la práctica de Programación Avanzada y Estructura de Datos (PAED) enfocada en la Optimización Combinatoria. En este proyecto, exploramos y aplicamos algoritmos complejos de optimización como BackTracking, Branch & Bound y Greedy.
+Bienvenido al repositorio de la práctica de Programación Avanzada y Estructura de Datos (PAED) enfocada en la Optimización Combinatoria. En este proyecto, se exploran y aplican algoritmos complejos de optimización como BackTracking, Branch & Bound y Greedy.
 
 ## Enfoque del Repositorio
 
